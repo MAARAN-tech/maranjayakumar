@@ -318,7 +318,7 @@ Built an intelligent disease prediction system integrated with analytical dashbo
 
 <div align="center">
 
-![snake gif](https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/MAARAN-tech/MAARAN-tech/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
